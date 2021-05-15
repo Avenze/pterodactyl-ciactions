@@ -1,0 +1,11 @@
+*
+!*/
+!action.yml
+!entrypoint.go
+!go.mod
+!go.sum
+!Dockerfile
+!LICENSE
+!README.md
+!.gitignore
+!.github/**
